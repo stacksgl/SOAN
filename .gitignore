@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+service-account.json
+service-account-key.json
+debug/
+debug_output/
+details/
+*.log
+
+
+STP main/STP main/.env.local
+STP main/STP main/.env
+STP main/STP main/api/.env
+STP main/STP main/api/.env.local
